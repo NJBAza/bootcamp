@@ -1,0 +1,7 @@
+venv
+**/venv
+venv/**
+.git
+.ipynb_checkpoints/**
+.venv
+venv/
